@@ -1,0 +1,46 @@
+@import 'bulma/css/bulma.css';
+
+
+body {
+  /* margin: 0; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.my{
+  margin-top: 5%;
+  text-align: center;
+  font-size: 5rem;
+  font-family:monospace;
+  margin-left: 5%;
+
+
+}
+
+.imag{
+  -webkit-column-count: 3; 
+  -moz-column-count: 3;
+  column-count: 3;
+ 
+}
+
+.boximg{
+  margin: 1%;
+  box-shadow: 5px 5px 5px grey;
+
+}
+
+
+
